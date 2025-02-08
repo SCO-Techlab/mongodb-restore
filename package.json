@@ -1,6 +1,6 @@
 {
   "name": "@scotechlab/mongodb-restore",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "restore mongodb bson dumps",
   "engines": {
     "node": ">=14"
