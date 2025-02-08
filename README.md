@@ -1,23 +1,23 @@
-# @scotechlab/mongodb-restore
+# @sco-techlab/mongodb-restore
 
 Simple pure js module to restore MongoDB dumps from BSON files. No extra tools required (i.e. mongo-tools).
 
 
 ## Installation
 
-    npm install --save @scotechlab/mongodb-restore
+    npm install --save @sco-techlab/mongodb-restore
 
 
 ## Resources
 
-* [Changelog](https://github.com/scotechlab/mongodb-restore/blob/2.x/CHANGELOG.md)
+* [Changelog](https://github.com/sco-techlab/mongodb-restore/blob/2.x/CHANGELOG.md)
 
 
 
 ## Usage
 
 ```javascript
-const restore = require('@scotechlab/mongodb-restore'),
+const restore = require('@sco-techlab/mongodb-restore'),
       uri = 'mongodb://127.0.0.1:27001/';
 
 // restore multi-database dump

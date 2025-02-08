@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scotechlab/mongodb-restore.git"
+    "url": "git+https://github.com/sco-techlab/mongodb-restore.git"
   },
   "bugs": {
-    "url": "https://github.com/scotechlab/mongodb-restore/issues"
+    "url": "https://github.com/sco-techlab/mongodb-restore/issues"
   },
-  "homepage": "https://github.com/scotechlab/mongodb-restore#readme"
+  "homepage": "https://github.com/sco-techlab/mongodb-restore#readme"
 }
