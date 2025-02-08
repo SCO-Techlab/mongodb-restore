@@ -1,5 +1,5 @@
 {
-  "name": "@scotechlab/mongodb-restore",
+  "name": "@sco-techlab/mongodb-restore",
   "version": "1.0.0",
   "description": "restore mongodb bson dumps",
   "engines": {
