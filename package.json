@@ -11,7 +11,7 @@
     "release:dry": "npx release-it --dry-run --no-npm",
     "release:alpha": "release-it --preRelease=alpha",
     "release:beta": "release-it --preRelease=beta",
-    "release": "release-it"
+    "release": "release-it --access=public"
   },
   "author": "SCO Techlab",
   "license": "MIT",
